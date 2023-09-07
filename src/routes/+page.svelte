@@ -111,7 +111,7 @@
 
         <div class="front">
           <div class="front-align">
-            <h1>Joseph Salmon</h1>  
+            <h1>Joseph Salmón</h1>  
             <h2>Front-End Engineer</h2>
             <h3>airefrescodesign@gmail.com</h3>
             <h3>928.821.9183</h3>
